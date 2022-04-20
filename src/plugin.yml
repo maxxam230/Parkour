@@ -1,0 +1,11 @@
+main: me.max.parkour.Main
+name: Parkour
+version: '0.01'
+author: maxxam230
+description: ParkourMC TESTING!
+api-version: 1.13
+commands:
+  parkour:
+    description: chest help
+
+      
